@@ -4,24 +4,6 @@
 
 </div>
 
-## Welcome to UZDoom!
-
-[![Continuous Integration][badge_git]][status_git]
-[![Engine Translation status][badge_trans]][status_trans]
-[![Game Translation status][badge_trans_games]][status_trans_games]
-
-**UZDoom** is a modern, feature-rich source port for the classic game **DOOM**.
-
-A continuation of [ZDoom][zdoom] and [GZDoom][gzdoom], UZDoom enhances the original DOOM engine, providing advanced features like:
-
-* High-Resolution Graphics
-* Dynamic lighting
-* 3D Floors
-* Extensive Modding Support
-* Support for modern OpenGL and Vulkan renderers
-
-UZDoom is **free and open-source software**, built and maintained by a dedicated community of developers and enthusiasts.
-
 ## 🙏 Acknowledgments
 
 UZDoom would not be possible without the foundational work of many people. We extend our immense gratitude to:
@@ -50,15 +32,6 @@ You can view the full license text here: <https://www.gnu.org/licenses/>
 * Copyright 2017-2025 GZDoom Maintainers and Contributors
 * Copyright 2025-2026 UZDoom Maintainers and Contributors
 
-## 🌐 Resources
-
-* [Home Page][home]
-* [Wiki][wiki]
-* [Discord Server][community]
-* [Forum][forum]
-* [Engine Translation][status_trans]
-* [Game Translation][status_trans_games]
-
 ### 🛠️ Building UZDoom
 
 To build UZDoom from source, please see UZDoom's GitHub [wiki][gh_wiki] for a full list of dependencies and detailed instructions. Build For [Linux][gh_linux] / [Windows][gh_windows] / [MacOS][gh_apple]
@@ -71,23 +44,6 @@ To build UZDoom from source, please see UZDoom's GitHub [wiki][gh_wiki] for a fu
 [<img alt="Translation status" style="width: 49%" src="https://hosted.weblate.org/widget/doom-engine-games/open-graph.png" />][status_trans_games]
 
 </div>
-
-[gzdoom]: https://github.com/ZDoom/gzdoom/
-[zdoom]: https://github.com/rheit/zdoom/
-
-[repo]: https://github.com/UZDoom/UZDoom/
-[home]: https://zdoom.org/
-[wiki]: https://zdoom.org/wiki/
-[forum]: https://forum.zdoom.org/
-[community]: https://dsc.gg/zdoom
-
-[gh_wiki]: https://github.com/UZDoom/UZDoom/wiki/
-[gh_linux]: https://github.com/UZDoom/UZDoom/wiki/Compilation#linux
-[gh_windows]: https://github.com/UZDoom/UZDoom/wiki/Compilation#windows
-[gh_apple]: https://github.com/UZDoom/UZDoom/wiki/Compilation#macos
-
-[status_git]: https://github.com/UZDoom/UZDoom/actions/workflows/continuous_integration.yml
-[badge_git]: https://github.com/UZDoom/UZDoom/actions/workflows/continuous_integration.yml/badge.svg
 
 [badge_trans]: https://hosted.weblate.org/widget/uzdoom/svg-badge.svg
 [status_trans]: https://hosted.weblate.org/engage/uzdoom/
