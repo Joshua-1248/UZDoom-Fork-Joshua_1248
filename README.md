@@ -1,7 +1,5 @@
 <div align="center">
 
-[ <img src="branding/misc/logo-bg.svg" alt="UZDoom Icon" style="height: 8em; width: 100%" /> ]
-
 </div>
 
 ## Acknowledgments
