@@ -28,17 +28,6 @@ You can view the full license text here: <https://www.gnu.org/licenses/>
 * Copyright 2017-2025 GZDoom Maintainers and Contributors
 * Copyright 2025-2026 UZDoom Maintainers and Contributors
 
-### 🛠️ Building UZDoom
-
-To build UZDoom from source, please see UZDoom's GitHub [wiki][gh_wiki] for a full list of dependencies and detailed instructions. Build For [Linux][gh_linux] / [Windows][gh_windows] / [MacOS][gh_apple]
-
-<div align="center">
-
-[ <img src="branding/UZDoom%20Banner.svg" alt="UZDoom Footer" style="height: 8em; width: 100%" /> ][repo]
-
-[<img alt="Translation status" style="width: 49%" src="https://hosted.weblate.org/widget/uzdoom/open-graph.png" />][status_trans]
-[<img alt="Translation status" style="width: 49%" src="https://hosted.weblate.org/widget/doom-engine-games/open-graph.png" />][status_trans_games]
-
 </div>
 
 [badge_trans]: https://hosted.weblate.org/widget/uzdoom/svg-badge.svg
