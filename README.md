@@ -1,12 +1,10 @@
 <div align="center">
 
-[ <img src="branding/misc/logo-bg.svg" alt="UZDoom Icon" style="height: 8em; width: 100%" /> ][repo]
+[ <img src="branding/misc/logo-bg.svg" alt="UZDoom Icon" style="height: 8em; width: 100%" /> ]
 
 </div>
 
-## 🙏 Acknowledgments
-
-UZDoom would not be possible without the foundational work of many people. We extend our immense gratitude to:
+## Acknowledgments
 
 * **id Software** for creating the original DOOM and releasing its source code.
 * **Marisa Heit** for her foundational work on ZDoom, and **Christoph Oelckers** for his work on GZDoom.
